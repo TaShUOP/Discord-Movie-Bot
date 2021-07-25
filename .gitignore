@@ -75,8 +75,8 @@ typings/
 # FuseBox cache
 .fusebox/
 
-#bot invite link
-.bot_link.txt
+#bot link
+bot_link.txt
 
-#token
-.token.txt
+#bot token
+token.txt
