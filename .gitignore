@@ -76,7 +76,7 @@ typings/
 .fusebox/
 
 #bot invite link
-bot_link.txt
+.bot_link.txt
 
 #token
-token.txt
+.token.txt
